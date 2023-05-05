@@ -41,5 +41,6 @@ Precision-Recall Curve evaluation on balanced data classified by XGBoost, majori
 Area Under ROC compared by three algorithms, ROC curve was generated in the code to process balanced data
 
      evaluate_auc_3Algorithm_micro.ipynb
-     
+
+The files in folder "NSL-KDD" and "TON_IoT" have the similiar name as the files in folder "MalMem"
      
