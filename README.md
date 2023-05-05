@@ -13,20 +13,24 @@ RUS+ADASYN+Tomek Link run on balanced and imbalanced data:
      adasyn_tl_xgboost_imbalanced.ipynb
 
 Majority voting classifier (ensemble of Logistic Regression, Decision Tree, SVM, K-Nearest Neighbor) run on balanced and imbalanced data:
+
      ensemble_major.ipynb
      ensemble_major_imb.ipynb
      
 CNN run on balanced and imbalanced data:
+
      createCNN_Balanced.ipynb
      createCNN_Imbalanced.ipynb
      
 Precision-Recall Curve evaluation on balanced data classified by XGBoost, majority voting classifier, CNN
+
      evaluate_PR_xgboost.ipynb      (balanced)
      evaluate_PR_xgboost_imb.ipynb   (imbalanced)
      ......
      Evaluate_PR_3Algorithms.ipynb   (three algorithms comparison)
      
 Area Under ROC compared by three algorithms, ROC curve was generated in the code to process balanced data
+
      evaluate_auc_3Algorithm_micro.ipynb
      
      
