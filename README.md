@@ -23,8 +23,8 @@ RUS+ADASYN+Tomek Link run on balanced and imbalanced data:
 
 Majority voting classifier (ensemble of Logistic Regression, Decision Tree, SVM, K-Nearest Neighbor) run on balanced and imbalanced data:
 
-     ensemble_major.ipynb
-     ensemble_major_imb.ipynb
+     ensemble_major.ipynb   (balanced)
+     ensemble_major_imb.ipynb   (imbalanced)
      
 CNN run on balanced and imbalanced data:
 
