@@ -8,6 +8,7 @@ The code name begins with evaluate.... is for the Precision-Recall Curve and ROC
 The data has been preprocessed and it is divided into traing set (70%) and test set(20%).
 
 RUS+ADASYN+Tomek Link run on balanced and imbalanced data:
+
      adasyn_tl_xgboost_balance.ipynb
      adasyn_tl_xgboost_imbalanced.ipynb
 
