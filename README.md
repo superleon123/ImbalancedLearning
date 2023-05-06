@@ -47,6 +47,12 @@ Precision-Recall Curve evaluation on balanced data classified by XGBoost, majori
 Area Under ROC compared by three algorithms, ROC curve was generated in the code to process balanced data
 
      evaluate_auc_3Algorithm_micro.ipynb
+     
+Test AdaBoost and RUSBoost:
+
+     test_AdaBoost_MalMem.py   (Test AdaBoost and RUSBoost for CIC-MalMem-2022)
+     test_AdaBoost_NSL-KDD.py    (Test AdaBoost and RUSBoost for NSL-KDD)
+     test_AdaBoost_IoT.py     (Test AdaBoost and RUSBoost for TON_IoT)
 
 The files in folder "NSL-KDD" and "TON_IoT" have the similiar name as the files in folder "MalMem"
      
