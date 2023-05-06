@@ -1,8 +1,14 @@
 # ImbalancedLearning
 Combine uncersampling and oversampling with ensemble learning
+
+CIC-MalMem-2022 dataset (https://www.unb.ca/cic/datasets/malmem-2022.html)
+NSL-KDD dataset  (https://www.unb.ca/cic/datasets/nsl.html )
+TON_IoT dataset (https://research.unsw.edu.au/projects/toniot-datasets)
+
+
 Directories：
 
-TON_IoT is for the code of TON_IoT dataset
+TON_IoT is for the code of TON_IoT dataset.
 
 MalMem is for the code of CIC-MalMem-2022 dataset
 
